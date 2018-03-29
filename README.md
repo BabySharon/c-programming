@@ -50,7 +50,8 @@ printf("Sum = %d",c);
 
 In the terminal type,
 
-```gcc add.c -o add
+```
+gcc add.c -o add
 ./add.c
 ```
 
