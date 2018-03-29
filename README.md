@@ -46,6 +46,13 @@ printf("Sum = %d",c);
 }
 ```
 
+*file saved in the name add.c*
+
+In the terminal type,
+`gcc add.c -o add`
+
+`./add.c`
+
 **_Output_**
 ```
 Sum = 10
